@@ -49,6 +49,7 @@ const readme = `\
       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" alt="maven" width="45" height="55"/>
       <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.svg" alt="c#" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="55"/>
+      <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="flutter" width="45" height="55"/>
 </p>
 
 ### Database Stack
