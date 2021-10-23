@@ -30,6 +30,7 @@
       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" alt="maven" width="45" height="55"/>
       <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.svg" alt="c#" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="55"/>
+      <img src="https://github.com/actions/starter-workflows/blob/main/icons/powershell.svg" alt="flutter" width="45" height="55"/>
 </p>
 
 ### Database Stack
@@ -71,7 +72,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 80.83 % as on ⏰ 22-Oct-2021
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 81.04 % as on ⏰ 22-Oct-2021
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
@@ -84,3 +85,4 @@
 ---
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+
