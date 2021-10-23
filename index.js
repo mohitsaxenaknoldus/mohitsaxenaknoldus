@@ -22,10 +22,10 @@ const readme = `\
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Software Engineer working for at Knoldus LLP.
+- 🏦 I'm a Software Engineer working at Knoldus.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regularly write technical articles for [Knoldus Blogs](https://blog.knoldus.com/)
-- 💻 I use daily **.java**, **.yml**, **.sh**
+- 💻 I use daily: **.java**, **.yml**, **.sh**
 - 📖 I am currently reading **The Power Of Your Subconscious Mind** by Joseph Murphy
 - 💬 Talk to me about anything
 - 👯 We can connect to play some games of Chess ♟
@@ -59,7 +59,7 @@ const readme = `\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsaxenaknoldus&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 80.83 % as on ⏰ 22-Oct-2021
+⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${(new Date().getDate()-1)+'-'+ monthNames[new Date().getMonth()]+'-'+new Date().getFullYear()}
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
