@@ -82,6 +82,7 @@ const readme = `\
       <img src="https://github.com/gilbarbara/logos/blob/master/logos/bitbucket.svg" alt="bitbucket" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="45" height="55"/>
 </p>
 
 ---
