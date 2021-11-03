@@ -73,13 +73,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 83.57 % as on ⏰ 1-Nov-2021
+⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 83.84 % as on ⏰ 2-Nov-2021
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“All parts should go together without forcing.  You must remember that the parts you are reassembling were disassembled by you.  Therefore, if you can’t get them together again, there must be a reason.  By all means, do not use a hammer.”— IBM Manual, 1925  </i>
+• <i>“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
