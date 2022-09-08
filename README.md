@@ -73,13 +73,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.24 % as on ⏰ 6-Sep-2022
+⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.51 % as on ⏰ 7-Sep-2022
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  </i>
+• <i>“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
