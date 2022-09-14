@@ -73,13 +73,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.88 % as on ⏰ 12-Sep-2022
+⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 70.15 % as on ⏰ 13-Sep-2022
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!</i>
+• <i>“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
