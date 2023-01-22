@@ -73,13 +73,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.49 % as on ⏰ 20-Jan-2023
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.77 % as on ⏰ 21-Jan-2023
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.</i>
+• <i>“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
