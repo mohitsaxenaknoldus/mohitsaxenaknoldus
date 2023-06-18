@@ -73,13 +73,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 45.76 % as on ⏰ 16-Jun-2023
+⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 46.04 % as on ⏰ 17-Jun-2023
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.</i>
+• <i>“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
