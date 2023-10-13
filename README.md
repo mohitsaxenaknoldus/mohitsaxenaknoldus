@@ -73,13 +73,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 77.82 % as on ⏰ 11-Oct-2023
+⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 78.09 % as on ⏰ 12-Oct-2023
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   </i>
+• <i>“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
