@@ -73,13 +73,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 39.47 % as on ⏰ 24-May-2025
+⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 39.74 % as on ⏰ 25-May-2025
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In May 1997, an IBM supercomputer known as Deep Blue beat then chess world champion Garry Kasparov, who had once bragged that he would never lose to a machine. After 15 years, it was discovered that the critical move made by Deep Blue was due to a bug in its software.</i>
+• <i>“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
