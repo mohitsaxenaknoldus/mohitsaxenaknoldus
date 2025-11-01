@@ -73,7 +73,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitsaxenaknoldus&theme=dark)](https://git.io/streak-stats)
 
 ---
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 83.03 % as on ⏰ 30-Oct-2025
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 83.30 % as on ⏰ 0-Nov-2025
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
